@@ -1,1 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiBayi_Cat=anuraghazra&show_icons=true&theme=radical)
+<p>
+    <h1 align="center">Cat Bayi</h1>
+</p>
