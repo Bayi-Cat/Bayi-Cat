@@ -7,4 +7,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Bayi-Cat&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bayi-Cat&show_icons=true&theme=radical)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Bayi-Cat&theme=Github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Bayi-Cat&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
