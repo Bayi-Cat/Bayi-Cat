@@ -21,6 +21,6 @@ This is my GitHub :octocat:  account<br>
 
 My updates won't be too frequent because I'm still a student.  <br>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Bayi-Cat&show_icons=true&theme=dark&count_private=true)<br>
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" /> </div><br>
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" /> </div><br>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Bayi-Cat&theme=xcode" /> </div><br>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bayi-Cat" /> </div><br>
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=Bayi-Cat" /> </div>
