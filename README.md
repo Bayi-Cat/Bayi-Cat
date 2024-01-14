@@ -1,7 +1,7 @@
 # 👋 <Hi, I'm Cat Bayi>
 This is my GitHub :octocat:  account<br>
-🏫I am from Hangzhou, Zhejiang, China🇨🇳, and I am an ordinary junior high school student.<br>
-💻Operating System: macOS<br>
+🏫I am from Hangzhou, Zhejiang Province, China🇨🇳, and I am an ordinary junior high school student.🏫<br>
+💻Operating System: macOS🍎(primary), Linux🐧(secondary) and Windows🪟(exceptional). <br>
 🧑‍💻I like programming in C++, JavaScript…<br> 
 📚I love to read.<br>
 ✍️I also love to write.<br>
@@ -19,8 +19,5 @@ This is my GitHub :octocat:  account<br>
 ![node](https://img.shields.io/badge/Node.js-green)
 
 
-My updates won't be too frequent because I'm still a student.  <br>
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Bayi-Cat&show_icons=true&theme=dark&count_private=true)<br>
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Bayi-Cat&theme=xcode" /> </div><br>
+My updates won't be too frequent because I'm still a student.🏫  <br>
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bayi-Cat" /> </div><br>
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=Bayi-Cat" /> </div>
