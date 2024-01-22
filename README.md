@@ -21,3 +21,10 @@ This is my GitHub :octocat:  account<br>
 
 My updates won't be too frequent because I'm still a student.🏫  <br>
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bayi-Cat" /> </div><br>
+
+<!-- 贪吃蛇 - 图片由 actions/Generate Snake 定时生成 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+  <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
+</picture>
