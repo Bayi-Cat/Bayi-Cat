@@ -20,6 +20,7 @@ This is my GitHub :octocat:  account<br>
 
 
 My updates won't be too frequent because I'm still a student.🏫  <br>
+![Metrics](/github-metrics.svg)<br>
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bayi-Cat" /> </div><br>
 
 <!-- 贪吃蛇 - 图片由 actions/Generate Snake 定时生成 -->
