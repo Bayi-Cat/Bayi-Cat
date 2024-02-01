@@ -1,5 +1,6 @@
 # 👋 <Hi, I'm Cat Bayi>
-This is my GitHub :octocat:  account<br>
+Aha!😜 You found me!<br>
+This is my GitHub :octocat:  account.<br>
 🏫I am from Hangzhou, Zhejiang Province, China🇨🇳, and I am an ordinary junior high school student.🏫<br>
 💻Operating System: macOS🍎(primary), Linux🐧(secondary) and Windows🪟(exceptional). <br>
 🧑‍💻I like programming in C++, JavaScript…<br> 
