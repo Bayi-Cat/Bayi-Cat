@@ -1,4 +1,4 @@
-# 👋 <Hi, I'm Cat Bayi>
+# 👋 <Hi, I'm Gavin>
 Aha!😜 You found me!<br>
 This is my GitHub :octocat:  account.<br>
 🏫I am from Hangzhou, Zhejiang Province, China🇨🇳, and I am an ordinary junior high school student.🏫<br>
@@ -22,7 +22,7 @@ This is my GitHub :octocat:  account.<br>
 
 My updates won't be too frequent because I'm still a student.🏫  <br>
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bayi-Cat" /> </div><br>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=GavZheng" /> </div><br>
 
 ![Metrics](/github-metrics.svg)<br>
 
